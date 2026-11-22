@@ -42,14 +42,23 @@ _lock = threading.Lock()
 try:
     import numpy as np
     from sentence_transformers import SentenceTransformer
-
-    logger.info("RAG: loading embedding model '%s'…", _EMBED_MODEL)
-    _model = SentenceTransformer(_EMBED_MODEL)
-    _embed_dim = _model.get_sentence_embedding_dimension()
     _RAG_AVAILABLE = True
-    logger.info("RAG: model ready, embedding dim=%d.", _embed_dim)
+    logger.info("RAG: sentence-transformers available. Model will load on first use.")
 except Exception as exc:  # pragma: no cover
     logger.warning("RAG unavailable — %s. Using keyword retrieval fallback.", exc)
+
+
+def _get_model() -> "SentenceTransformer":
+    """Lazy-load the embedding model on first use (saves ~300 MB at startup)."""
+    global _model, _embed_dim
+    if _model is None:
+        with _lock:
+            if _model is None:  # double-checked locking
+                logger.info("RAG: loading embedding model '%s'…", _EMBED_MODEL)
+                _model = SentenceTransformer(_EMBED_MODEL)
+                _embed_dim = _model.get_sentence_embedding_dimension()
+                logger.info("RAG: model ready, embedding dim=%d.", _embed_dim)
+    return _model
 
 
 # ── Database init ──────────────────────────────────────────────────────────────
@@ -165,10 +174,9 @@ def _chunk_id(source_name: str, chunk_index: int, text: str) -> str:
 
 
 def _embed(texts: list[str]):  # returns np.ndarray
-    if _model is None:
-        raise RuntimeError("Embedding model not loaded")
     import numpy as np
-    vecs = _model.encode(texts, normalize_embeddings=True, show_progress_bar=False)
+    model = _get_model()
+    vecs = model.encode(texts, normalize_embeddings=True, show_progress_bar=False)
     return vecs.astype(np.float32)
 
 

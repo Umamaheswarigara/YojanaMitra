@@ -17,4 +17,5 @@ VOLUME ["/app/data"]
 
 EXPOSE 8000
 
+# Use $PORT if set by the platform (Render, Railway, Fly.io), else default to 8000
 CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
