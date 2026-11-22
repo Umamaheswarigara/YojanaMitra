@@ -1,0 +1,15 @@
+backend/.venv/
+backend/**/__pycache__/
+backend/.env
+backend/data/vector_store.db
+backend/data/vector_store.db-shm
+backend/data/vector_store.db-wal
+backend/data/chroma/
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production
+
+backend/data/users.db
+backend/data/users.db-shm
+backend/data/users.db-wal

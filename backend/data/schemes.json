@@ -1,0 +1,894 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "Farmers",
+    "description": "Income support for eligible landholding farmer families, transferred directly to beneficiary bank accounts.",
+    "beneficiaries": "Landholding farmer families with cultivable land, subject to scheme exclusions and verification by the State or UT.",
+    "eligibility": [
+      "A farmer family must own cultivable land recorded by the concerned State or UT.",
+      "Institutional landholders and specified higher economic status categories are excluded; see current official rules."
+    ],
+    "benefits": [
+      "₹6,000 per year per eligible family, paid in three equal installments through direct benefit transfer."
+    ],
+    "application": [
+      "Use the official PM-KISAN portal to register or check beneficiary status.",
+      "Follow the portal instructions and State/UT verification process; eKYC is required for registered farmers."
+    ],
+    "official_url": "https://pmkisan.gov.in/",
+    "last_verified": "2026-11-21",
+    "source_note": "Department of Agriculture and Farmers Welfare, PM-KISAN official portal and guidelines",
+    "aliases": [
+      "PM Kisan",
+      "PM Kisan Yojana",
+      "Pradhan Mantri Kisan Samman Nidhi",
+      "Kisan Samman Nidhi"
+    ],
+    "keywords": [
+      "farmer income support",
+      "agriculture",
+      "direct benefit transfer",
+      "kisan"
+    ],
+    "required_documents": [
+      "Land ownership/cultivable land records (Khasra, Khatauni or State equivalent)",
+      "Aadhaar card (for eKYC — mandatory for registered farmers)",
+      "Bank account details (for Direct Benefit Transfer)",
+      "Mobile number registered with Aadhaar"
+    ]
+  },
+  {
+    "id": "nsp-scholarships",
+    "name": "National Scholarship Portal schemes",
+    "category": "Students",
+    "description": "A Government of India portal listing central and state scholarship schemes for eligible students.",
+    "beneficiaries": "Students; eligibility depends on the individual scholarship, academic year, domicile, course and other scheme rules.",
+    "eligibility": [
+      "Requirements differ by scholarship. Use the official eligibility checker and read the scheme guidelines for the current academic year.",
+      "The portal states that One Time Registration is required to apply."
+    ],
+    "benefits": [
+      "Scholarship benefits and amounts vary by scheme; consult the official scheme specifications for current terms."
+    ],
+    "application": [
+      "Use the official portal's eligibility checker, select a current scholarship and follow its application instructions."
+    ],
+    "official_url": "https://scholarships.gov.in/Students",
+    "last_verified": "2026-11-21",
+    "source_note": "National Scholarship Portal, Academic Year 2026-27",
+    "aliases": [
+      "National Scholarship Portal",
+      "NSP",
+      "scholarships.gov.in"
+    ],
+    "keywords": [
+      "student scholarships",
+      "education aid",
+      "scholarship search"
+    ],
+    "required_documents": [
+      "Aadhaar card",
+      "Previous year academic mark sheet / pass certificate",
+      "Income certificate (from competent authority) if applicable",
+      "Bank account details (account must be in applicant's name)",
+      "Domicile/residence certificate as required by specific scholarship",
+      "Caste/community certificate if applicable to the scholarship"
+    ]
+  },
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "Farmers",
+    "description": "Crop insurance support for farmers facing notified crop losses from specified natural risks.",
+    "beneficiaries": "Farmers, including sharecroppers and tenant farmers, who grow notified crops in notified areas and have an insurable interest.",
+    "eligibility": [
+      "The crop and area must be notified for the relevant season by the State/UT.",
+      "Non-loanee farmers must provide land or cultivation evidence accepted by the concerned State; requirements vary for sharecroppers and tenant farmers."
+    ],
+    "benefits": [
+      "Insurance cover and assessed claims for covered crop losses under the applicable season notification. Premium shares, sum insured and covered crops vary by crop, area and season."
+    ],
+    "application": [
+      "Apply through the official PMFBY portal, a bank, Common Service Centre or other authorized channel before the notified season cutoff.",
+      "Report localized or post-harvest losses through the prescribed channel within the guideline timeframe."
+    ],
+    "official_url": "https://pmfby.gov.in/",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Agriculture and Farmers Welfare, PMFBY portal and operational guidelines",
+    "aliases": [
+      "PMFBY",
+      "Fasal Bima Yojana",
+      "Pradhan Mantri Fasal Bima"
+    ],
+    "keywords": [
+      "crop insurance",
+      "farm insurance",
+      "crop loss"
+    ],
+    "required_documents": [
+      "Land records (Khasra number / cultivated area details)",
+      "Sowing certificate (issued by Patwari or revenue authority)",
+      "Bank account details",
+      "Aadhaar card",
+      "Previous year crop details if claiming continued coverage"
+    ]
+  },
+  {
+    "id": "kisan-credit-card",
+    "name": "Kisan Credit Card (KCC) and Modified Interest Subvention Scheme",
+    "category": "Farmers",
+    "description": "Bank credit for crop production and eligible agriculture and allied-activity working needs.",
+    "beneficiaries": "Eligible farmers, including small and marginal farmers; KCC coverage also includes eligible animal-husbandry and fisheries activities under applicable rules.",
+    "eligibility": [
+      "The applicant must meet the lending bank's KCC and activity-specific requirements.",
+      "Eligible cultivators, tenant farmers, sharecroppers and joint liability groups may be considered under applicable bank rules."
+    ],
+    "benefits": [
+      "A revolving credit facility for eligible production and allied-activity costs. Concessional interest and prompt-repayment incentives may apply under the current annual MISS terms; rates and limits can change."
+    ],
+    "application": [
+      "Apply to a participating bank or cooperative lender using its KCC process and supporting cultivation/activity documents.",
+      "The lender assesses the application and sanctioned credit limit."
+    ],
+    "official_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238004&lang=1&reg=3",
+    "last_verified": "2026-11-21",
+    "source_note": "Government of India, Ministry of Agriculture and Farmers Welfare / Press Information Bureau, 2026 KCC update",
+    "aliases": [
+      "KCC",
+      "Kisan Credit Card Scheme"
+    ],
+    "keywords": [
+      "farmer credit",
+      "agriculture loan",
+      "crop loan"
+    ],
+    "required_documents": [
+      "Land ownership / lease / tenancy documents",
+      "Identity proof (Aadhaar / Voter ID / PAN card)",
+      "Address proof",
+      "Passport-size photographs",
+      "No-dues certificate from other banks (if applicable)"
+    ]
+  },
+  {
+    "id": "pmksy-per-drop-more-crop",
+    "name": "PMKSY – Per Drop More Crop (Micro Irrigation)",
+    "category": "Farmers",
+    "description": "Promotes water-use efficiency on farms through drip and sprinkler micro-irrigation systems.",
+    "beneficiaries": "Farmers in participating States/UTs with eligible land and proposed micro-irrigation work under the approved state/district plan.",
+    "eligibility": [
+      "Eligibility, supported crops/areas and application requirements are administered through State/UT implementation plans.",
+      "A farmer must meet the applicable state rules and use an approved system/provider."
+    ],
+    "benefits": [
+      "Financial assistance toward eligible micro-irrigation costs, subject to the current unit-cost limits, approved plans and State/UT rules. Assistance amounts vary."
+    ],
+    "application": [
+      "Contact the State Agriculture/Horticulture Department or designated implementing agency and follow its registration and installation process.",
+      "Assistance is released after the prescribed installation checks and documentation."
+    ],
+    "official_url": "https://pmksy.gov.in/pdfLinks/FAQ.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "Pradhan Mantri Krishi Sinchayee Yojana official FAQ and Per Drop More Crop guidelines",
+    "aliases": [
+      "PMKSY",
+      "Per Drop More Crop",
+      "Micro Irrigation Scheme"
+    ],
+    "keywords": [
+      "drip irrigation",
+      "sprinkler",
+      "water efficiency"
+    ],
+    "required_documents": [
+      "Land ownership records or lease deed",
+      "Aadhaar card",
+      "Bank account details",
+      "Soil test report (if required by state)",
+      "Application form from State Agriculture Department"
+    ]
+  },
+  {
+    "id": "pm-usp-csss",
+    "name": "PM-USP Central Sector Scheme of Scholarship for College and University Students (CSSS)",
+    "category": "Students",
+    "description": "Merit-cum-means scholarship assistance for eligible students pursuing regular higher education.",
+    "beneficiaries": "Meritorious students from families meeting the scheme's income and other conditions, pursuing eligible regular college or university courses.",
+    "eligibility": [
+      "Fresh applicants must meet the applicable board merit/percentile criteria, pursue a regular course, satisfy the current family-income ceiling, and not receive another scholarship or fee reimbursement.",
+      "Course, renewal, board and annual application rules are set in the current guidelines."
+    ],
+    "benefits": [
+      "Annual scholarship assistance is ₹12,000 for the first three years of eligible undergraduate study and ₹20,000 for eligible later years/courses under the published guidelines; course-specific rules apply."
+    ],
+    "application": [
+      "Apply for fresh or renewal scholarship through the National Scholarship Portal during the application period announced for that academic year.",
+      "Follow the current PM-USP guidelines and institute/state verification steps."
+    ],
+    "official_url": "https://www.education.gov.in/sites/upload_files/mhrd/files/upload_document/PM_USP_CSSS_guidelines_updated.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Education, PM-USP CSSS guidelines and National Scholarship Portal",
+    "aliases": [
+      "PM USP CSSS",
+      "Central Sector Scholarship",
+      "College Scholarship Scheme"
+    ],
+    "keywords": [
+      "college students",
+      "higher education scholarship",
+      "merit scholarship"
+    ],
+    "required_documents": [
+      "Class 12 mark sheet showing top 20 percentile status",
+      "Income certificate (family income < ₹8 lakh for renewal; fresh — no income limit)",
+      "Bank account details (in applicant's name)",
+      "Aadhaar card",
+      "Institution / college enrollment proof"
+    ]
+  },
+  {
+    "id": "nmmss",
+    "name": "National Means-cum-Merit Scholarship Scheme (NMMSS)",
+    "category": "Students",
+    "description": "Scholarship support intended to help meritorious students from lower-income families continue secondary education.",
+    "beneficiaries": "Selected students from eligible government, government-aided and local-body schools, with continuation subject to renewal conditions.",
+    "eligibility": [
+      "Selection is conducted by States/UTs at the prescribed school stage; students must meet the current income, school, examination and marks criteria.",
+      "School types, state selection procedures and renewal conditions are specified in current scheme guidelines."
+    ],
+    "benefits": [
+      "The scheme rate published by the Ministry is ₹12,000 per year for selected students, subject to selection and renewal rules."
+    ],
+    "application": [
+      "Take the State/UT selection examination when announced, then complete the required application/renewal on the National Scholarship Portal.",
+      "Dates and state-level instructions vary by academic year and State/UT."
+    ],
+    "official_url": "https://www.education.gov.in/en/national-means-cum-merit-scholarship-scheme-nmmss",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Education NMMSS page and National Scholarship Portal 2026-27 scheme listing",
+    "aliases": [
+      "NMMS",
+      "National Means cum Merit Scholarship"
+    ],
+    "keywords": [
+      "school students",
+      "merit scholarship",
+      "secondary education"
+    ],
+    "required_documents": [
+      "Class 8 mark sheet",
+      "State MAT and SAT examination score card",
+      "Family income certificate (below ₹3.5 lakh per year)",
+      "Caste certificate if applicable",
+      "Bank account details (in applicant's name)",
+      "Aadhaar card"
+    ]
+  },
+  {
+    "id": "pm-yasasvi",
+    "name": "PM Young Achievers Scholarship Award Scheme for Vibrant India (PM-YASASVI)",
+    "category": "Students",
+    "description": "Umbrella scholarship and hostel-support scheme for eligible OBC, EBC and DNT students.",
+    "beneficiaries": "Students in the scheme's OBC, EBC and DNT groups, across its pre-matric, post-matric and top-class education sub-schemes.",
+    "eligibility": [
+      "Eligibility depends on the selected sub-scheme, class/course, institution, category, income and academic-year rules.",
+      "Use the current official sub-scheme guidelines; the umbrella scheme does not have one shared eligibility test."
+    ],
+    "benefits": [
+      "Scholarship or hostel support under the applicable sub-scheme. Benefit amounts, class/course coverage and slots vary by component and academic year."
+    ],
+    "application": [
+      "Check the current PM-YASASVI sub-scheme on the Ministry/NSP portal and apply using that component's instructions and dates."
+    ],
+    "official_url": "https://socialjustice.gov.in/schemes/101",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Social Justice and Empowerment, PM-YASASVI scheme page",
+    "aliases": [
+      "PM YASASVI",
+      "YASASVI Scholarship"
+    ],
+    "keywords": [
+      "OBC scholarship",
+      "EBC scholarship",
+      "DNT students"
+    ],
+    "required_documents": [
+      "OBC / EBC / DNT community certificate",
+      "Family income certificate (below ₹2.5 lakh per year)",
+      "Class 8 or 10 mark sheet",
+      "PM YASASVI entrance test (YET) admit card and score card",
+      "Aadhaar card",
+      "Bank account details"
+    ]
+  },
+  {
+    "id": "national-overseas-scholarship",
+    "name": "National Overseas Scholarship (NOS) for SC and other notified candidates",
+    "category": "Students",
+    "description": "Financial assistance for eligible low-income students to pursue a master's degree or PhD abroad.",
+    "beneficiaries": "Eligible candidates from the categories listed in the current guidelines, including Scheduled Castes, De-notified/Nomadic/Semi-Nomadic Tribes, landless agricultural labourers and traditional artisans.",
+    "eligibility": [
+      "Applicants must meet the category, income, academic admission and other conditions in the applicable selection-year guidelines.",
+      "Annual slots and category allocations are limited and may change by selection year."
+    ],
+    "benefits": [
+      "Financial assistance for approved overseas higher-education costs, including tuition and maintenance/other allowances under the current guidelines. Specific limits depend on the rules and destination."
+    ],
+    "application": [
+      "Apply online through the Ministry's National Overseas Scholarship portal during the selection-year window.",
+      "The Ministry's current guidelines set required documents, selection and disbursement procedures."
+    ],
+    "official_url": "https://socialjustice.gov.in/schemes/28",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Social Justice and Empowerment, NOS scheme page and 2026-27 guidelines",
+    "aliases": [
+      "NOS",
+      "National Overseas Scholarship"
+    ],
+    "keywords": [
+      "study abroad scholarship",
+      "overseas education",
+      "SC scholarship"
+    ],
+    "required_documents": [
+      "SC / ST or notified community caste certificate",
+      "Income certificate (family income < ₹8 lakh per year)",
+      "Undergraduate and postgraduate degree certificates and mark sheets",
+      "Admission letter from foreign university",
+      "Age proof (must be below 35 years)",
+      "Aadhaar card",
+      "Passport (valid)"
+    ]
+  },
+  {
+    "id": "pre-matric-sc-scholarship",
+    "name": "Pre-Matric Scholarship Scheme for Scheduled Castes and Others",
+    "category": "Students",
+    "description": "Pre-matric education support through components for SC students and children of people in specified hazardous occupations.",
+    "beneficiaries": "Eligible Indian students in the classes covered by the relevant component, studying in India and domiciled in the implementing State/UT.",
+    "eligibility": [
+      "The SC component covers full-time Class IX-X students with parental/guardian income within the notified ceiling.",
+      "A separate component covers Classes I-X for children of parents/guardians in specified unclean or hazardous occupations; income and other rules differ by component."
+    ],
+    "benefits": [
+      "Academic allowance varies by component and day-scholar/hosteller status under current guidelines; additional disability allowances may apply."
+    ],
+    "application": [
+      "Register through the National Scholarship Portal when applications open, then complete any State/UT portal steps and verification.",
+      "The scheme is implemented by States/UTs, so dates and additional procedures may vary."
+    ],
+    "official_url": "https://socialjustice.gov.in/schemes/23",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Social Justice and Empowerment, Pre-Matric Scholarship Scheme page",
+    "aliases": [
+      "Pre Matric SC Scholarship",
+      "Pre-Matric Scholarship"
+    ],
+    "keywords": [
+      "school scholarship",
+      "scheduled caste students",
+      "SC scholarship"
+    ],
+    "required_documents": [
+      "Scheduled Caste certificate",
+      "Income certificate (family income within scheme limit)",
+      "Previous class mark sheet",
+      "School enrollment certificate",
+      "Bank account details (in student's or parent's name)",
+      "Aadhaar card"
+    ]
+  },
+  {
+    "id": "aicte-pragati-degree",
+    "name": "AICTE Pragati Scholarship for Girl Students (Degree)",
+    "category": "Students",
+    "description": "Merit-based AICTE scholarship supporting girl students pursuing an AICTE-approved technical degree programme.",
+    "beneficiaries": "Girl students admitted to an eligible technical programme at an AICTE-approved institution; up to two girl children from a family may be eligible, subject to scheme rules.",
+    "eligibility": [
+      "The applicant must be a girl student admitted to the first year of an AICTE-approved technical degree or to the second year through lateral entry.",
+      "A maximum of two girl children per family may be eligible.",
+      "Family income from all sources must not exceed ₹8 lakh per annum during the applicable financial year; a State/UT-issued income certificate is required.",
+      "Selection is merit-based. Current admission-year, course and verification rules are set in the active academic-year guidelines; check the official portal before applying."
+    ],
+    "benefits": [
+      "AICTE scheme guidelines state ₹50,000 per annum for each year of study as a lump-sum scholarship toward eligible education-related expenses. The maximum duration stated in the scheme guidelines is 4 years for first-year entrants and 3 years for second-year lateral-entry students; confirm current terms in the active academic-year guidelines."
+    ],
+    "application": [
+      "Apply online through the National Scholarship Portal after completing its One Time Registration. Select the matching AICTE Pragati Degree or Diploma scheme, submit the application and required supporting documents, and follow institute and State/UT verification steps shown on the portal.",
+      "Application windows, document requirements and verification dates vary by academic year; consult the current NSP listing and scheme guidelines."
+    ],
+    "official_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2010_G.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "AICTE scheme specifications linked from the National Scholarship Portal AY 2026-27 listing; application and current requirements are administered through NSP.",
+    "aliases": [
+      "AICTE Pragati",
+      "Pragati Scholarship",
+      "Pragati Yojana",
+      "AICTE Girl Scholarship"
+    ],
+    "keywords": [
+      "girl students",
+      "technical degree",
+      "merit scholarship",
+      "AICTE scholarship"
+    ],
+    "required_documents": [
+      "AICTE-approved degree engineering college admission letter",
+      "Income certificate (family income < ₹8 lakh per year)",
+      "Proof of being a girl student (Aadhaar / birth certificate)",
+      "Class 12 mark sheet",
+      "Bank account details (in applicant's name)"
+    ]
+  },
+  {
+    "id": "aicte-pragati-diploma",
+    "name": "AICTE Pragati Scholarship for Girl Students (Diploma)",
+    "category": "Students",
+    "description": "Merit-based AICTE scholarship supporting girl students pursuing an AICTE-approved technical diploma programme.",
+    "beneficiaries": "Girl students admitted to an eligible technical programme at an AICTE-approved institution; up to two girl children from a family may be eligible, subject to scheme rules.",
+    "eligibility": [
+      "The applicant must be a girl student admitted to the first year of an AICTE-approved technical diploma or to the second year through lateral entry.",
+      "A maximum of two girl children per family may be eligible.",
+      "Family income from all sources must not exceed ₹8 lakh per annum during the applicable financial year; a State/UT-issued income certificate is required.",
+      "Selection is merit-based. Current admission-year, course and verification rules are set in the active academic-year guidelines; check the official portal before applying."
+    ],
+    "benefits": [
+      "AICTE scheme guidelines state ₹50,000 per annum for each year of study as a lump-sum scholarship toward eligible education-related expenses. The maximum duration stated in the scheme guidelines is 3 years for first-year entrants and 2 years for second-year lateral-entry students; confirm current terms in the active academic-year guidelines."
+    ],
+    "application": [
+      "Apply online through the National Scholarship Portal after completing its One Time Registration. Select the matching AICTE Pragati Degree or Diploma scheme, submit the application and required supporting documents, and follow institute and State/UT verification steps shown on the portal.",
+      "Application windows, document requirements and verification dates vary by academic year; consult the current NSP listing and scheme guidelines."
+    ],
+    "official_url": "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_2011_G.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "AICTE scheme specifications linked from the National Scholarship Portal AY 2026-27 listing; application and current requirements are administered through NSP.",
+    "aliases": [
+      "AICTE Pragati",
+      "Pragati Scholarship",
+      "Pragati Yojana",
+      "AICTE Girl Scholarship"
+    ],
+    "keywords": [
+      "girl students",
+      "technical diploma",
+      "merit scholarship",
+      "AICTE scholarship"
+    ],
+    "required_documents": [
+      "AICTE-approved diploma / polytechnic college admission letter",
+      "Income certificate (family income < ₹8 lakh per year)",
+      "Proof of being a girl student",
+      "Class 10 mark sheet",
+      "Bank account details (in applicant's name)"
+    ]
+  },
+  {
+    "id": "pmmvy",
+    "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+    "category": "Women",
+    "description": "Maternity benefit for eligible pregnant and lactating women from listed socially and economically disadvantaged groups, supporting health-seeking behaviour.",
+    "beneficiaries": "Eligible pregnant and lactating women meeting at least one Ministry-listed category. Benefits cover the first living child, and a second living child when the second child is a girl.",
+    "eligibility": [
+      "The beneficiary must meet at least one listed category: Scheduled Caste or Scheduled Tribe; partially (40%) or fully disabled; BPL ration-card holder; PM-JAY beneficiary; e-Shram card holder; woman farmer benefiting under PM-KISAN; MGNREGA job-card holder; net family income below ₹8 lakh per year; pregnant or lactating AWW, AWH or ASHA; or NFSA ration-card holder. The Central Government may prescribe additional categories.",
+      "Women in regular employment with the Central Government, a State Government or a Public Sector Undertaking, and women receiving similar maternity benefits under another law, are excluded.",
+      "The stated eligible beneficiary age is 18 years 7 months up to 55 years. Confirm current age and any case-specific rule with the PMMVY portal or implementing authority.",
+      "For the first-child first installment: pregnancy registration and at least two antenatal check-ups (ANC), preferably within six months from LMP, at an Anganwadi Centre or approved health facility identified by the State/UT.",
+      "For the first-child second installment: childbirth must be registered and the child must complete the first cycle of immunization (14 weeks).",
+      "For a second living child who is a girl: pregnancy registration and at least two ANC, preferably within six months from LMP; registered childbirth; and completion of the first immunization cycle (14 weeks).",
+      "Facility designation and implementation details may vary by State/UT; consult the current official PMMVY instructions."
+    ],
+    "benefits": [
+      "For the first living child, ₹5,000 in two installments: ₹3,000 after the pregnancy-registration and at-least-two-ANC condition; then ₹2,000 after registered childbirth and completion of the first immunization cycle (14 weeks).",
+      "For a second living child who is a girl, ₹6,000 in one installment after pregnancy registration, at least two ANC, registered childbirth and completion of the first immunization cycle (14 weeks)."
+    ],
+    "application": [
+      "An eligible woman can register directly through the official PMMVY portal using citizen login, or request an Anganwadi Worker (AWW) or ASHA worker to submit the online application.",
+      "The Ministry lists the beneficiary's Aadhaar number, MCP/RCHI card, and one document proving a listed eligibility category. Supporting application details/documents include Aadhaar-mapped bank or post-office account details, mobile number, eligibility proof, LMP and ANC dates, birth certificate and child immunization details.",
+      "Aadhaar of the beneficiary's husband is not mandatory. Follow the portal's current instructions and the designated State/UT AWC or approved health-facility process; current submission time limits should be checked on the official portal."
+    ],
+    "official_url": "https://www.wcd.gov.in/offerings/pradhan-mantri-matru-vandana-yojana",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Women and Child Development, current PMMVY FAQ and Mission Shakti information; eligibility and facility implementation may be subject to current government instructions.",
+    "aliases": [
+      "PMMVY",
+      "Pradhan Mantri Matru Vandana Yojana",
+      "Matru Vandana"
+    ],
+    "keywords": [
+      "maternity benefit",
+      "pregnant women",
+      "nursing mothers"
+    ],
+    "required_documents": [
+      "Mother and Child Protection (MCP) card",
+      "Aadhaar card of mother and spouse/partner",
+      "Bank account details (in mother's name)",
+      "Proof of first live birth (hospital/AWC record)",
+      "Mobile number"
+    ]
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Account (SSA)",
+    "category": "Women",
+    "description": "Government-backed small-savings account opened by a guardian for a girl child.",
+    "beneficiaries": "A girl child under 10 years of age; the account is opened and operated by a natural or legal guardian until applicable age rules permit the account holder to operate it.",
+    "eligibility": [
+      "The account is opened in the name of an eligible girl child under the current scheme rules.",
+      "Account-number limits, deposits, withdrawal conditions and permitted exceptions follow the notified rules."
+    ],
+    "benefits": [
+      "Savings earn the Government-notified interest rate, which is revised periodically. The account matures 21 years after opening; eligible partial withdrawals are permitted under scheme rules."
+    ],
+    "application": [
+      "A guardian can open an account at a post office or participating bank with the required account-opening documents and deposit."
+    ],
+    "official_url": "https://www.indiapost.gov.in/banking-services/savings",
+    "last_verified": "2026-11-21",
+    "source_note": "India Post, Sukanya Samriddhi Account information and account rules",
+    "aliases": [
+      "Sukanya Samriddhi Yojana",
+      "SSA",
+      "Sukanya Account"
+    ],
+    "keywords": [
+      "girl child savings",
+      "small savings",
+      "post office savings"
+    ],
+    "required_documents": [
+      "Birth certificate of girl child (below 10 years)",
+      "Parent / guardian identity proof (Aadhaar / PAN / Passport)",
+      "Parent / guardian address proof",
+      "Passport-size photographs of parent/guardian and girl child"
+    ]
+  },
+  {
+    "id": "pm-ujjwala",
+    "name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "category": "Women",
+    "description": "Supports access to LPG connections for eligible adult women in poor households.",
+    "beneficiaries": "Adult women in eligible poor households that do not already have an LPG connection in the household.",
+    "eligibility": [
+      "The applicant must be a woman aged 18 or older.",
+      "No other LPG connection may be registered in the household; the household must satisfy the current poor-household/deprivation criteria and documentation rules."
+    ],
+    "benefits": [
+      "A deposit-free LPG connection package under current PMUY rules. First-refill, stove and subsidy support are subject to current scheme provisions and notifications."
+    ],
+    "application": [
+      "Submit an application to an LPG distributor or through the official PMUY online application route.",
+      "Complete KYC and provide the prescribed household, identity, bank and deprivation documents."
+    ],
+    "official_url": "https://www.pmuy.gov.in/about.html",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Petroleum and Natural Gas, PMUY official portal and FAQ",
+    "aliases": [
+      "PM Ujjwala Yojana",
+      "PMUY",
+      "Ujjwala"
+    ],
+    "keywords": [
+      "LPG connection",
+      "cooking gas",
+      "women beneficiaries"
+    ],
+    "required_documents": [
+      "BPL ration card or Pradhan Mantri Ujjwala Yojana application form (self-declaration)",
+      "Identity proof of adult woman (Aadhaar card)",
+      "Address proof",
+      "Recent passport-size photograph",
+      "Bank account details"
+    ]
+  },
+  {
+    "id": "day-nrlm",
+    "name": "Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM)",
+    "category": "Women",
+    "description": "Organizes rural poor women into self-help groups and supports livelihoods, financial inclusion and community institutions.",
+    "beneficiaries": "Rural poor households mobilized into women-led Self-Help Groups and eligible SHG federations under the State Rural Livelihoods Mission.",
+    "eligibility": [
+      "Group formation and inclusion are undertaken through State/UT rural livelihood missions using their community-mobilization processes.",
+      "Revolving Fund support is for eligible SHGs meeting the current existence, record-keeping and group-practice conditions; support is not an individual cash grant."
+    ],
+    "benefits": [
+      "Eligible SHGs may receive a ₹20,000–₹30,000 Revolving Fund corpus and Community Investment Fund routed through federations, along with bank linkage, livelihood and skill support. State plans and group eligibility govern access."
+    ],
+    "application": [
+      "Contact the local women SHG, Village Organization, Block Mission Management Unit or State Rural Livelihoods Mission to join or learn about group formation.",
+      "Funds are routed through eligible community institutions and federations, not applied for as an individual household grant."
+    ],
+    "official_url": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=12665",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Rural Development DAY-NRLM policy, consolidated in the Reserve Bank of India master circular",
+    "aliases": [
+      "DAY NRLM",
+      "NRLM",
+      "Aajeevika",
+      "Deendayal Antyodaya Yojana National Rural Livelihoods Mission"
+    ],
+    "keywords": [
+      "women self help groups",
+      "rural livelihoods",
+      "SHG credit"
+    ],
+    "required_documents": [
+      "Proof of residence in rural area",
+      "Identity proof (Aadhaar card)",
+      "Bank account details (for SHG group account)",
+      "SHG formation and meeting register (maintained by the group)"
+    ]
+  },
+  {
+    "id": "pm-mudra",
+    "name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "category": "Small Business Owners",
+    "description": "Collateral-free institutional credit for eligible small businesses and micro-enterprises.",
+    "beneficiaries": "Individuals and micro-enterprises with eligible income-generating business activities in manufacturing, trading, services or allied agriculture.",
+    "eligibility": [
+      "The applicant must be otherwise eligible for credit and have a business plan; the lending institution assesses repayment and loan eligibility.",
+      "Tarun Plus is for borrowers who have successfully repaid a previous Tarun-category loan."
+    ],
+    "benefits": [
+      "Loans are offered in Shishu (up to ₹50,000), Kishor (above ₹50,000 up to ₹5 lakh), Tarun (above ₹5 lakh up to ₹10 lakh) and Tarun Plus (above ₹10 lakh up to ₹20 lakh for eligible Tarun graduates). Interest and repayment terms are set by the lender."
+    ],
+    "application": [
+      "Apply through a participating bank, NBFC or microfinance institution, or use the JanSamarth government portal where available.",
+      "The lender reviews the business plan and supporting documents; loan approval is not automatic."
+    ],
+    "official_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2240159&lang=1&reg=48",
+    "last_verified": "2026-11-21",
+    "source_note": "Department of Financial Services, Government of India, PMMY 2026 information",
+    "aliases": [
+      "PM Mudra Yojana",
+      "PM Mudra Yojna",
+      "Mudra Loan",
+      "Pradhan Mantri Mudra Yojana",
+      "PMMY",
+      "MUDRA"
+    ],
+    "keywords": [
+      "small business loan",
+      "micro enterprise credit",
+      "business finance",
+      "Shishu Kishor Tarun"
+    ],
+    "required_documents": [
+      "Identity proof (Aadhaar / PAN / Voter ID)",
+      "Address proof (utility bill / ration card / lease agreement)",
+      "Business plan or activity proof",
+      "Bank account details",
+      "Proof of non-farm business activity (invoice / registration)",
+      "Caste certificate if applying under special category"
+    ]
+  },
+  {
+    "id": "pmegp",
+    "name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "category": "Small Business Owners",
+    "description": "Credit-linked margin-money subsidy programme for establishing eligible new micro-enterprises.",
+    "beneficiaries": "Individuals and other eligible entities setting up new viable micro-enterprises in manufacturing or service/business activities permitted by the guidelines.",
+    "eligibility": [
+      "An individual applicant must be over 18; there is no income ceiling for a new project.",
+      "Only eligible new projects qualify. For projects above the guideline's cost thresholds, at least Class VIII education is required; existing units and activities on the negative list are excluded."
+    ],
+    "benefits": [
+      "Bank-financed project support with a margin-money subsidy. Subsidy rates and maximum eligible project costs vary by category, location, sector and current guidelines; the balance is financed by the bank."
+    ],
+    "application": [
+      "Submit an application through the official KVIC PMEGP e-portal and select the implementing agency and financing bank.",
+      "Complete bank appraisal and prescribed entrepreneurship development training/verification steps under current rules."
+    ],
+    "official_url": "https://www.kviconline.gov.in/pmegpeportal/dashboard/notification/Revised_PMEGP_Scheme_Guidelines_07122023_compressed.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "Khadi and Village Industries Commission, revised PMEGP guidelines and portal",
+    "aliases": [
+      "PMEGP",
+      "Prime Minister Employment Generation Programme"
+    ],
+    "keywords": [
+      "micro enterprise subsidy",
+      "self employment",
+      "new business"
+    ],
+    "required_documents": [
+      "Identity proof (Aadhaar card)",
+      "Address proof",
+      "Educational certificates (minimum Class 8 pass for projects > ₹10 lakh)",
+      "Project report / business plan",
+      "EDP (Entrepreneurship Development Programme) training certificate (after selection)",
+      "Caste certificate / special category certificate if applicable",
+      "Bank account details"
+    ]
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)",
+    "category": "Small Business Owners",
+    "description": "Working-capital credit and repayment/digital incentives for eligible street vendors.",
+    "beneficiaries": "Street vendors identified under the scheme, including eligible vendors with a Certificate of Vending, identity card or Letter of Recommendation through the urban local body process.",
+    "eligibility": [
+      "Applicants must meet the current street-vendor identification and urban-local-body criteria.",
+      "Documents or a Letter of Recommendation may be needed for vendors missing from the survey; details depend on the local body and current guidelines."
+    ],
+    "benefits": [
+      "The restructured scheme provides staged working-capital loans and may provide interest subsidy and digital-transaction incentives for eligible repayment/transactions. Current tranche amounts and incentives are set by the latest guidelines and lender."
+    ],
+    "application": [
+      "Apply through the official PM SVANidhi portal or with assistance from the urban local body, a banking correspondent or an authorized lender.",
+      "Vendor identification and loan appraisal follow the current MoHUA and lender process."
+    ],
+    "official_url": "https://www.mohua.gov.in/documents/guidelines/guidelines-pradhan-mantri-street-vendors-atmanirbhar-nidhi-pm-svanidhi-scheme-UTM0EDNtQWa",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Housing and Urban Affairs, PM SVANidhi guidelines (updated operational documents)",
+    "aliases": [
+      "PM SVANidhi",
+      "PM Street Vendor AtmaNirbhar Nidhi",
+      "SVANidhi"
+    ],
+    "keywords": [
+      "street vendor loan",
+      "vendor credit",
+      "working capital"
+    ],
+    "required_documents": [
+      "Street vendor identity card issued by Urban Local Body OR",
+      "Vending certificate / letter of recommendation from ULB / TVC",
+      "Aadhaar card",
+      "Bank account details (savings account)",
+      "Mobile number linked to Aadhaar"
+    ]
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": "PM Vishwakarma",
+    "category": "Small Business Owners",
+    "description": "Recognition, skills, toolkit, credit and market support for traditional artisans and craftspeople.",
+    "beneficiaries": "Self-employed artisans and craftspeople working with hands and tools in one of the 18 notified traditional trades.",
+    "eligibility": [
+      "Applicants must meet the age, trade, self-employment, family and prior-benefit conditions in the current guidelines.",
+      "Registration and a multi-level verification process are required; a single family member is covered under applicable rules."
+    ],
+    "benefits": [
+      "Benefits include recognition, basic/advanced training with a stipend, toolkit e-voucher up to ₹15,000, and collateral-free enterprise loans in two tranches up to ₹1 lakh and ₹2 lakh at the notified concessional rate. Later-tranche conditions apply."
+    ],
+    "application": [
+      "Register through a Common Service Centre on the official PM Vishwakarma portal.",
+      "The application is verified by the Gram Panchayat/Urban Local Body and other designated authorities before benefits are approved."
+    ],
+    "official_url": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2070029&lang=2&reg=48",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of MSME and Press Information Bureau, PM Vishwakarma operational guidelines",
+    "aliases": [
+      "PM Vishwakarma Yojana",
+      "PM Vishwakarma Scheme"
+    ],
+    "keywords": [
+      "traditional artisans",
+      "craft workers",
+      "skill training",
+      "artisan credit"
+    ],
+    "required_documents": [
+      "Aadhaar card",
+      "Mobile number linked to Aadhaar",
+      "Bank account details",
+      "Proof of traditional craft or trade (artisan / craftsperson self-declaration)",
+      "PMVDP registration on official portal"
+    ]
+  },
+  {
+    "id": "pm-jay",
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "category": "General Public",
+    "description": "Cashless health cover for eligible families for secondary and tertiary hospitalization at empanelled hospitals.",
+    "beneficiaries": "Families identified under applicable national eligibility criteria and State/UT expansions; beneficiary eligibility should be checked individually.",
+    "eligibility": [
+      "National household eligibility is based on specified deprivation and occupational criteria; States/UTs may expand or adapt coverage.",
+      "The scheme is not a general open-enrolment health-insurance application. Check the official beneficiary database or State Health Agency."
+    ],
+    "benefits": [
+      "Health cover up to ₹5 lakh per eligible family per year for covered hospitalization at empanelled hospitals, subject to package and scheme rules."
+    ],
+    "application": [
+      "Check eligibility through the official PM-JAY beneficiary portal, an authorized Common Service Centre or an Ayushman Mitra at an empanelled hospital.",
+      "Eligible beneficiaries follow the prescribed e-card and hospital verification process."
+    ],
+    "official_url": "https://nha.gov.in/img/resources/Adhikar-Patra.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "National Health Authority, PM-JAY beneficiary information and eligibility guidance",
+    "aliases": [
+      "PM-JAY",
+      "PM JAY",
+      "Ayushman Bharat",
+      "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana"
+    ],
+    "keywords": [
+      "health insurance",
+      "hospital treatment",
+      "health coverage"
+    ],
+    "required_documents": [
+      "Aadhaar card OR Ration card OR voter ID (any one for verification)",
+      "PM-JAY beneficiary card (Ayushman Card — issued after SECC verification)",
+      "No separate application needed if name appears in SECC/PMJAY list"
+    ]
+  },
+  {
+    "id": "pmay-urban-2",
+    "name": "Pradhan Mantri Awas Yojana – Urban 2.0 (PMAY-U 2.0)",
+    "category": "General Public",
+    "description": "Central assistance to eligible urban families to construct, purchase or rent an affordable home through scheme components.",
+    "beneficiaries": "Eligible EWS, LIG and MIG families living in urban areas, subject to the selected component and State/UT validation.",
+    "eligibility": [
+      "The family should not own a pucca house anywhere in India and should not have received a home under a government housing scheme within the specified prior period.",
+      "The published annual income bands are up to ₹3 lakh for EWS, ₹3–6 lakh for LIG and ₹6–9 lakh for MIG; States/UTs may redefine EWS limits with Ministry concurrence. Other component rules apply."
+    ],
+    "benefits": [
+      "Assistance through Beneficiary-Led Construction, Affordable Housing in Partnership, Affordable Rental Housing or Interest Subsidy components. Amounts and terms vary by component, State/UT and lending institution."
+    ],
+    "application": [
+      "Register through the official PMAY-U 2.0 portal or contact the Urban Local Body/State nodal agency.",
+      "The State/UT/ULB validates eligibility; loan-linked assistance also requires lender processing."
+    ],
+    "official_url": "https://pmay-urban.gov.in/uploads/guidelines/Operational-Guidelines-of-PMAY-U-2.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "Ministry of Housing and Urban Affairs, PMAY-U 2.0 operational guidelines",
+    "aliases": [
+      "PMAY Urban",
+      "PMAY-U 2.0",
+      "PM Awas Yojana Urban",
+      "Pradhan Mantri Awas Yojana Urban"
+    ],
+    "keywords": [
+      "urban housing",
+      "house assistance",
+      "affordable housing"
+    ],
+    "required_documents": [
+      "Identity proof (Aadhaar card)",
+      "Address proof",
+      "Income proof (salary slip / income certificate for EWS/LIG/MIG)",
+      "Property ownership declaration (self-certification of no pucca house)",
+      "Bank account details",
+      "Home loan sanction letter (for CLSS component)"
+    ]
+  },
+  {
+    "id": "atal-pension-yojana",
+    "name": "Atal Pension Yojana (APY)",
+    "category": "General Public",
+    "description": "Voluntary, contribution-based pension scheme focused on old-age income security, especially for workers in the unorganized sector.",
+    "beneficiaries": "Eligible Indian citizens who join through a savings bank or post-office account and make the required contributions.",
+    "eligibility": [
+      "The subscriber must be an Indian citizen aged 18 to 40 and hold a savings bank/post-office savings account.",
+      "Contribution amount depends on joining age and chosen pension; current joining exclusions must be checked in official rules."
+    ],
+    "benefits": [
+      "A government-guaranteed minimum monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000 or ₹5,000 from age 60, depending on the contribution option and scheme rules."
+    ],
+    "application": [
+      "Enroll through a participating bank or post office using the APY registration process and an eligible savings account.",
+      "The subscriber authorizes periodic contributions; contribution amounts depend on age and selected pension."
+    ],
+    "official_url": "https://jansuraksha.gov.in/Files/APY/English/FAQ.pdf",
+    "last_verified": "2026-11-21",
+    "source_note": "Department of Financial Services, Jan Suraksha official APY FAQ and rules",
+    "aliases": [
+      "APY",
+      "Atal Pension Yojana"
+    ],
+    "keywords": [
+      "pension",
+      "retirement savings",
+      "social security"
+    ],
+    "required_documents": [
+      "Savings bank account (at any bank or post office)",
+      "Aadhaar card (for KYC — mandatory for new subscribers)",
+      "Mobile number registered with Aadhaar or bank account",
+      "No separate application form — enroll via bank net-banking / branch"
+    ]
+  }
+]
